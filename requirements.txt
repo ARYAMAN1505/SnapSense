@@ -1,5 +1,3 @@
 Flask
 util
 joblib
-scikit-learn
-numpy
