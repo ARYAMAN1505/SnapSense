@@ -10,3 +10,10 @@ MarkupSafe
 SQLAlchemy
 Werkzeug
 WTForms
+opencv-python
+joblib
+numpy
+base64
+cv2
+wavelet
+json
