@@ -13,6 +13,4 @@ WTForms
 opencv-python
 joblib
 numpy
-cv2
 wavelet
-json
