@@ -13,4 +13,4 @@ WTForms
 opencv-python
 joblib
 numpy
-wavelet
+pywavelets  # Replace 'wavelet' with 'pywavelets' if referring to PyWavelets
